@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
+Criando uma aplicação que gera extratos bancários.
+
+Onde foi desenvolvido um sistema que gera Extrato Bancário, fazendo o cadastro de correntista, incluindo entradas e saídas da conta bancária e por fim listando todas as movimentações do correntista.
+
+## :hammer: Tecnologias Utilizadas 
+- `Angular `
+- `HTML`
+- `CSS`
+- `Javascript`
+- `Framework Bootstrap`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
