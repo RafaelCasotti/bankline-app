@@ -1,6 +1,4 @@
-# BanklineApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+# Bankline: Banco Invest Fácil
 
 Criando uma aplicação que gera extratos bancários.
 
@@ -12,6 +10,9 @@ Onde foi desenvolvido um sistema que gera Extrato Bancário, fazendo o cadastro 
 - `CSS`
 - `Javascript`
 - `Framework Bootstrap`
+
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
 
