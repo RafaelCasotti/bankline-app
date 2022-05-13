@@ -11,5 +11,4 @@ export class LocalDateTimePipe implements PipeTransform {
     return dateOut.format("DD-MM-YYYY HH:mm");
   }
 
-
 }
