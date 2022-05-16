@@ -8,7 +8,8 @@ Criando uma aplicação que gera extratos bancários., fazendo o cadastro de cor
 - `Angular `
 - `HTML`
 - `CSS`
-- `Javascript`
+- `JavaScript`
+- `TypeScript`
 - `Framework Bootstrap`
 
 
