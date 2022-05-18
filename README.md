@@ -12,6 +12,13 @@ Criando uma aplicação que gera extratos bancários., fazendo o cadastro de cor
 - `TypeScript`
 - `Framework Bootstrap`
 
+## Demonstrações da Aplicação
+
+<img src="https://user-images.githubusercontent.com/98350903/169150542-e8e2c934-5faf-4668-b13a-16fc9490f664.PNG" height="300" width="600"/>
+
+<img src="https://user-images.githubusercontent.com/98350903/169150777-9ea2a764-0961-42bd-afb4-0c5224d9300f.PNG" height="300" width="600"/>
+
+<img src="https://user-images.githubusercontent.com/98350903/169150844-3dab023b-b82e-4c09-b42f-b11b271f6c95.PNG" height="300" width="600"/>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
