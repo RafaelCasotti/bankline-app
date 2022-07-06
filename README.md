@@ -21,7 +21,7 @@ Criando uma aplicação que gera extratos bancários., fazendo o cadastro de cor
 <img src="https://user-images.githubusercontent.com/98350903/169150844-3dab023b-b82e-4c09-b42f-b11b271f6c95.PNG" width="600"/>
 
 ## :bulb: Link do site hospedado
-[https://dsmovie-fs.netlify.app/](https://bankline-app.netlify.app/)
+[https://bankline-app.netlify.app/](https://bankline-app.netlify.app/)
 
 ##
 
